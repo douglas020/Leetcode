@@ -1,3 +1,5 @@
+#include <stdbool.h>
+
 bool canPlaceFlowers(int* flowerbed, int flowerbedSize, int n) {
     if (n <0)
     return false;
