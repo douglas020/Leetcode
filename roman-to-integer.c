@@ -1,6 +1,4 @@
 
-
-
 int valor (char s){
 
     switch (s){
