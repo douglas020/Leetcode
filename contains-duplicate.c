@@ -13,9 +13,6 @@ int crescente (const void *a,const void * b){
 
 }
 
-
-
-
 bool containsDuplicate(int* nums, int numsSize) {
     
     qsort(nums,numsSize,sizeof(int),crescente);
